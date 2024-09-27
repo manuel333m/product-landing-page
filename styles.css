@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
@@ -39,7 +41,7 @@ a {
 }
 
 .logo {
-  width: 300px;
+  width: 6rem;
   cursor: pointer;
 }
 
@@ -48,6 +50,8 @@ a {
       background-color: rgb(255, 255, 255);
   }
 }
+
+
 
 .btn {
   display: inline-block;
@@ -227,14 +231,17 @@ a {
 
   #pricing .price-box {
     margin: 1rem;
+    
   }
 
   .price-box:first-child {
     margin-right: 0;
+    
   }
 
   .price-box:last-child {
     margin-left: 0;
+    
   }
 
   #main-footer {
