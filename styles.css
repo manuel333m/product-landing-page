@@ -143,6 +143,8 @@ a {
   border: solid #333 3px;
   border-radius: 2px;
   text-align: center;
+  height: 26em;
+  width: 70em;
 }
 
 .price-box:first-child {
